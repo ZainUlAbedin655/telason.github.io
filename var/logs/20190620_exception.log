@@ -1,0 +1,195 @@
+*ERROR* 	v1.7.4.4	2019/06/20 - 18:03:26: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 87
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 18:10:46: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 87
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 18:11:07: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 87
+                AND pac.id_attribute IN (69,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 18:35:30: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 88
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 19:56:11: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 19:57:31: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 19:58:50: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 19:59:35: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 20:06:44: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 20:06:50: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (30,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 20:06:51: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (30,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 20:06:59: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (30,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 20:19:37: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 87
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 22:29:31: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 87
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php
+*ERROR* 	v1.7.4.4	2019/06/20 - 22:30:36: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 106
+                AND pac.id_attribute IN (64,105,62)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php

@@ -1,0 +1,61 @@
+
+/* Css for block about us start */
+#block-aboutus .block-aboutus .block-details {
+    padding: 10px 0 0;
+    line-height: 24px;
+}
+#blockaboutus {
+    text-align: center;
+	border-width: 0 1px 0 1px;
+    border-color: #eeeeee;
+    border-style: solid;
+}
+#blockaboutus .block-details {
+    padding: 0;
+}
+#block-aboutus .footer-logo {
+    padding: 0;
+}
+#blockaboutus .blockaboutus-inner .h3 {
+    display:none;
+}
+#blockaboutus #_desktop_logo {
+    margin-bottom: 30px;
+}
+#blockaboutus .blockaboutus-inner .block-details {
+    padding: 0;
+}
+.blockaboutus-inner img {
+    max-width: 100%;
+}
+
+@media (max-width: 991px){
+#blockaboutus {
+   text-align:left;
+    border-right: none;
+    padding-bottom: 0;
+}
+#blockaboutus .blockaboutus-inner .h3 {
+    color: #333333;
+    display: inline-block;
+}
+#blockaboutus .blockaboutus-inner .navbar-toggler {
+    color: #333333;
+}
+#blockaboutus .blockaboutus-inner .block-aboutus {
+    text-align: center;
+	line-height: 24px;
+}
+#blockaboutus .blockaboutus-inner .block-details {
+    margin-top: 5px;
+}
+#blockaboutus .block-details {
+    padding: 0;
+    width: 80%;
+    display: inline-block;
+}
+}
+@media (max-width: 479px){
+
+}
+/* Css for  block about us end */

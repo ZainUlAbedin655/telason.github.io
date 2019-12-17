@@ -1,0 +1,235 @@
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:03:25: 1. postProcess process start Thursday 1st of August 2019 08:03:25 PM 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:03:25: 2. POST Data {"cardholder_name":"Joe Soap","cardholder_number":"4242424242424242","card_expiry":"12\/2023","card_code":"123"} 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:03:25: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:03:25: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:03:25: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"2","amount":96,"currency":"EUR","card_no":"4242424242424242","ccExpiryMonth":"12","ccExpiryYear":"2023","cvvNumber":"123"} 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:03:32: 9. Curl Response {"status":"fail","message":"You can not charge a single card more than your one day limit."} 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:03:32: 11. after msg  0 , message  "You can not charge a single card more than your one day limit.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:04:19: 1. postProcess process start Thursday 1st of August 2019 08:04:19 PM 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:04:19: 2. POST Data {"cardholder_name":"Joe Soap","cardholder_number":"4242424242424242","card_expiry":"12\/2023","card_code":"123"} 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:04:19: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:04:19: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:04:19: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"2","amount":96,"currency":"EUR","card_no":"4242424242424242","ccExpiryMonth":"12","ccExpiryYear":"2023","cvvNumber":"123"} 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:04:25: 9. Curl Response {"status":"fail","message":"You can not charge a single card more than your one day limit."} 
+*DEBUG* 	v1.7.4.4	2019/08/01 - 20:04:25: 11. after msg  0 , message  "You can not charge a single card more than your one day limit.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:34:37: 1. postProcess process start Saturday 3rd of August 2019 01:34:37 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:34:37: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:34:37: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:34:37: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:34:37: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"2","amount":96,"currency":"EUR","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:34:45: 9. Curl Response {"status":"fail","message":"Your account is in test mode, please use 'https:\/\/ipaytotal.solutions\/api\/test\/transaction' URL for testing"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:34:45: 11. after msg  0 , message  "Your account is in test mode, please use 'https:\/\/ipaytotal.solutions\/api\/test\/transaction' URL for testing<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:40:39: 1. postProcess process start Saturday 3rd of August 2019 01:40:39 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:40:39: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:40:39: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:40:39: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:40:39: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"2","amount":96,"currency":"EUR","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:40:39: 9. Curl Response {"status":"fail","errors":{"response_url":["The response url field is required."]}} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:40:39: 11. after msg  0 , message  "The response url field is required.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:50:53: 1. postProcess process start Saturday 3rd of August 2019 01:50:53 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:50:53: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:50:53: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:50:53: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:50:53: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"2","amount":96,"currency":"EUR","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:50:59: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0M2ZjMzI5MTBlIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:50:59: 11. after msg  0 , message  "" 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:56:24: 1. postProcess process start Saturday 3rd of August 2019 01:56:24 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:56:24: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:56:24: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:56:24: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:56:24: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"3","amount":96,"currency":"EUR","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:56:29: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDEwZGRiNWJmIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 01:56:29: 11. after msg  0 , message  "" 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:09:18: 1. postProcess process start Saturday 3rd of August 2019 02:09:18 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:09:18: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:09:18: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:09:18: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:09:18: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"3","amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:09:25: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDQxNTFiOWVlIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:23: 1. postProcess process start Saturday 3rd of August 2019 02:12:23 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:23: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:23: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:23: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:23: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"3","amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:30: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDRjZTI1Yzc0Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:30: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDRjZTI1Yzc0Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:12:30: 11. after msg  0 , message  "" 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:13:19: 1. postProcess process start Saturday 3rd of August 2019 02:13:19 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:13:19: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:13:19: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:13:20: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:13:20: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"3","amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:13:26: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDUwNjE5ZDkyIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:13:26: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDUwNjE5ZDkyIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:18:06: 1. postProcess process start Saturday 3rd of August 2019 02:18:06 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:18:06: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:18:06: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:18:06: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:18:06: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":"3","amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:18:12: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDYyNGE4YjQwIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 02:18:12: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ0NDYyNGE4YjQwIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 11:10:04: 1. postProcess process start Saturday 3rd of August 2019 11:10:04 AM 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 11:10:04: 2. POST Data {"cardholder_name":"Dale DeAngeli","cardholder_number":"379661546362007","card_expiry":"01\/2022","card_code":"5071"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 11:10:04: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 11:10:04: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 11:10:04: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Rosemary ","last_name":"Robertson","address":"2865 Wall Triana Hwy SW","country":"US","state":"AK","city":"Huntsville","zip":"35824","email":"rrobertson@eosdsusa.com","phone_no":"256 963-9425","card_type":"3","amount":1606.970000000000027284841053187847137451171875,"currency":"USD","card_no":"379661546362007","ccExpiryMonth":"01","ccExpiryYear":"2022","cvvNumber":"5071","response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 11:10:13: 9. Curl Response {"status":"fail","message":"Your account is in live mode."} 
+*DEBUG* 	v1.7.4.4	2019/08/03 - 11:10:13: 11. after msg  0 , message  "Your account is in live mode.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:47: 1. postProcess process start Monday 5th of August 2019 06:48:47 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:47: 2. POST Data [] 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:47: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:47: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:47: 11. Fail msg  2 , message  "Fail Card Type Not Correct" 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:55: 1. postProcess process start Monday 5th of August 2019 06:48:55 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:55: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:55: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:55: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:48:55: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"index.php?controller=order&step=2&id_cart=47&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:49:05: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZDE2MTIwNjYxIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 18:49:05: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZDE2MTIwNjYxIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:12:53: 1. postProcess process start Monday 5th of August 2019 07:12:53 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:12:53: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:12:53: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:12:53: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:12:53: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","response_url":"https:\/\/www.telason.com\/index.php?controller=order&step=2&id_cart=47&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65","sulte_apt_no":null} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:12:59: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZDZmYjA3MTIzIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:12:59: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZDZmYjA3MTIzIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:37:16: 1. postProcess process start Monday 5th of August 2019 07:37:16 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:37:16: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:37:16: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:37:16: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:37:16: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:37:22: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGNiMjljMzJjIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:37:22: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGNiMjljMzJjIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:41:30: 1. postProcess process start Monday 5th of August 2019 07:41:30 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:41:30: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:41:30: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:41:30: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:41:30: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?id_cart=47&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:41:36: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGRiMGJiMmJiIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:41:36: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGRiMGJiMmJiIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:45:29: 1. postProcess process start Monday 5th of August 2019 07:45:29 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:45:29: 2. POST Data {"cardholder_name":"ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:45:29: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:45:29: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:45:29: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?id_cart=47&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:45:38: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGVhMTUwNWU4Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:45:38: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGVhMTUwNWU4Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:47:42: 1. postProcess process start Monday 5th of August 2019 07:47:42 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:47:42: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:47:42: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:47:42: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:47:42: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?step=2&id_cart=47&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:47:51: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGYyNmUxOGI1Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 19:47:51: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZGYyNmUxOGI1Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:00:43: 1. postProcess process start Monday 5th of August 2019 08:00:43 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:00:43: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:00:43: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:00:43: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:00:43: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?step=2&id_cart=47&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:00:51: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZTIzMzU3NTNmIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:01:03: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZTIzMzU3NTNmIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:06:26: 1. postProcess process start Monday 5th of August 2019 08:06:26 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:06:26: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:06:26: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:06:26: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:06:26: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":0,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?step=2&id_cart=0&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:06:32: 9. Curl Response {"status":"fail","message":"Some parameters are invalid\/required","order_id":"2019129490820019"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:06:32: 11. after msg  0 , message  "Some parameters are invalid\/required<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:08:03: 1. postProcess process start Monday 5th of August 2019 08:08:03 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:08:03: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:08:03: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:08:03: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:08:03: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":0,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?step=2&id_cart=0&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:08:08: 9. Curl Response {"status":"fail","message":"Some parameters are invalid\/required","order_id":"2019129490820020"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:08:08: 11. after msg  0 , message  "Some parameters are invalid\/required<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:10:13: 1. postProcess process start Monday 5th of August 2019 08:10:13 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:10:13: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:10:13: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:10:13: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:10:14: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?step=2&id_cart=49&id_module=110&id_order=&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:10:20: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZTQ2YmVmMWRhIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:10:34: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZTQ2YmVmMWRhIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:48:31: 1. postProcess process start Monday 5th of August 2019 08:48:31 PM 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:48:31: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:48:31: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:48:31: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:48:31: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":114.469999999999998863131622783839702606201171875,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/response_ipay.php?step=2&id_cart=50&id_module=110&id_order=&total=114.47&currency=2&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:48:39: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZWQ2NzgzMTAwIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/05 - 20:48:39: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ3ZWQ2NzgzMTAwIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 08:21:26: 1. postProcess process start Tuesday 6th of August 2019 08:21:26 AM 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 08:21:26: 2. POST Data {"cardholder_name":"","cardholder_number":"","card_expiry":"","card_code":""} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 08:21:26: 12. else after msg  null , mess  "Card Holder Name can't be blank.<br>Card Number can't be blank.<br>Card Expiry can't be blank.<br>CVV can't be blank.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:14:00: 1. postProcess process start Tuesday 6th of August 2019 06:14:00 PM 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:14:00: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:14:00: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:14:00: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:14:00: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":114.469999999999998863131622783839702606201171875,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=50&id_module=110&id_order=&total=114.47&currency=2&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:14:07: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ5MWFhZjczNGRkIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:14:07: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ5MWFhZjczNGRkIjs="} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:19:13: 1. postProcess process start Tuesday 6th of August 2019 06:19:13 PM 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:19:13: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:19:13: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:19:13: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:19:13: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":2468.3699999999998908606357872486114501953125,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=51&id_module=110&id_order=&total=2468.37&currency=2&key=e8a4221a0cab69b0ba60510097d0cb65&"} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:19:20: 9. Curl Response {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ5MWJlOGFlMDQ5Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/06 - 18:19:20: 10. redirect msg  {"status":"3d_redirect","redirect_3ds_url":"https:\/\/voguepay.com\/?p=vpgate_demo&3dx=czoxODoiZGVtby01ZDQ5MWJlOGFlMDQ5Ijs="} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:20:33: 1. postProcess process start Wednesday 7th of August 2019 03:20:33 PM 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:20:33: 2. POST Data {"cardholder_name":"5457499934251704","cardholder_number":"","card_expiry":"10\/21","card_code":"124"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:20:33: 12. else after msg  null , mess  "Card Number can't be blank.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:23:06: 1. postProcess process start Wednesday 7th of August 2019 03:23:06 PM 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:23:06: 2. POST Data {"cardholder_name":"Gloria E Kaiser","cardholder_number":"5457499934251704","card_expiry":"10\/21","card_code":"124"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:23:06: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:23:06: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:23:06: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Nick","last_name":"Cumming","address":"17","country":"AU","state":"AK","city":"Capalaba","zip":"4157","email":"nick.cumming@telason.com","phone_no":"1300800955","card_type":3,"amount":231.210000000000007958078640513122081756591796875,"currency":"USD","card_no":"5457499934251704","ccExpiryMonth":"10","ccExpiryYear":"21","cvvNumber":"124","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=46&id_module=110&id_order=&total=231.21&currency=2&key=30db70999c174e83fffaeece493d26e5&"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:23:17: 9. Curl Response {"status":"fail","message":"Customer address is too short","order_id":"2019129490820338"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:23:17: 11. after msg  0 , message  "Customer address is too short<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:25:09: 1. postProcess process start Wednesday 7th of August 2019 03:25:09 PM 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:25:09: 2. POST Data {"cardholder_name":"Gloria E Kaiser","cardholder_number":"5457499934251704","card_expiry":"10\/21","card_code":"124"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:25:09: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:25:09: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:25:09: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Nick","last_name":"Cumming","address":"17","country":"AU","state":"AK","city":"Capalaba","zip":"4157","email":"nick.cumming@telason.com","phone_no":"1300800955","card_type":3,"amount":231.210000000000007958078640513122081756591796875,"currency":"USD","card_no":"5457499934251704","ccExpiryMonth":"10","ccExpiryYear":"21","cvvNumber":"124","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=46&id_module=110&id_order=&total=231.21&currency=2&key=30db70999c174e83fffaeece493d26e5&"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:25:17: 9. Curl Response {"status":"fail","message":"Customer address is too short","order_id":"2019129490820339"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:25:17: 11. after msg  0 , message  "Customer address is too short<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:27:18: 1. postProcess process start Wednesday 7th of August 2019 03:27:18 PM 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:27:18: 2. POST Data {"cardholder_name":"Gloria E Kaiser","cardholder_number":"5457499934251704","card_expiry":"10\/21","card_code":"124"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:27:18: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:27:18: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:27:18: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Nick","last_name":"Cumming","address":"17 Hook Street","country":"AU","state":"AK","city":"Capalaba","zip":"4157","email":"nick.cumming@telason.com","phone_no":"1300800955","card_type":3,"amount":231.210000000000007958078640513122081756591796875,"currency":"USD","card_no":"5457499934251704","ccExpiryMonth":"10","ccExpiryYear":"21","cvvNumber":"124","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=46&id_module=110&id_order=&total=231.21&currency=2&key=30db70999c174e83fffaeece493d26e5&"} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:27:26: 9. Curl Response {"status":"fail","message":"You can not charge a single card more than your one day limit."} 
+*DEBUG* 	v1.7.4.4	2019/08/07 - 15:27:26: 11. after msg  0 , message  "You can not charge a single card more than your one day limit.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:07:30: 1. postProcess process start Thursday 8th of August 2019 11:07:30 AM 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:07:30: 2. POST Data {"cardholder_name":"Gloria E Kaiser","cardholder_number":"5457499934251704","card_expiry":"10\/21","card_code":"124"} 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:07:30: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:07:30: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:07:30: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Nick","last_name":"Cumming","address":"17 Hook Street","country":"AU","state":"AK","city":"Capalaba","zip":"4157","email":"nick.cumming@telason.com","phone_no":"1300800955","card_type":3,"amount":231.210000000000007958078640513122081756591796875,"currency":"USD","card_no":"5457499934251704","ccExpiryMonth":"10","ccExpiryYear":"21","cvvNumber":"124","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=46&id_module=110&id_order=&total=231.21&currency=2&key=30db70999c174e83fffaeece493d26e5&"} 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:07:37: 9. Curl Response {"status":"fail","message":"You can not charge a single card more than your one day limit."} 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:07:37: 11. after msg  0 , message  "You can not charge a single card more than your one day limit.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:13:03: 1. postProcess process start Thursday 8th of August 2019 11:13:03 AM 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:13:03: 2. POST Data [] 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:13:03: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/08 - 11:13:03: 4. redirect order step 1 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:17:58: 1. postProcess process start Monday 19th of August 2019 08:17:58 PM 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:17:58: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:17:58: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:17:58: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:17: 1. postProcess process start Monday 19th of August 2019 08:18:17 PM 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:17: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:17: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:17: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:58: 1. postProcess process start Monday 19th of August 2019 08:18:58 PM 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:58: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:58: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:58: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:58: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=52&id_module=110&id_order=&total=96&currency=2&key=e8a4221a0cab69b0ba60510097d0cb65&","ip_address":"45.115.84.0"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:59: 8.9. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=52&id_module=110&id_order=&total=96&currency=2&key=e8a4221a0cab69b0ba60510097d0cb65&","ip_address":"45.115.84.0"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:59: 9. Curl Response {"status":"fail","message":"You can not charge a single card more than your one month limit."} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:18:59: 11. after msg  0 , message  "You can not charge a single card more than your one month limit.<br>" 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:09: 1. postProcess process start Monday 19th of August 2019 08:19:09 PM 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:09: 2. POST Data {"cardholder_name":"Ahsan","cardholder_number":"5123450000000008","card_expiry":"05\/2021","card_code":"100"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:09: 3. error zero 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:09: 5. authorized true 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:09: 8. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=52&id_module=110&id_order=&total=96&currency=2&key=e8a4221a0cab69b0ba60510097d0cb65&","ip_address":"45.115.84.0"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:10: 8.9. Curl Data {"api_key":"593GRiQF3K9qP8kW2Gao52pKbjdnG2jbHPfNl1E4I3T76XFIBlJH4SNEMjS00H5tXMM","first_name":"Ahsan","last_name":"khan","address":"Testing","country":"NZ","state":"AK","city":"Islamabad","zip":"1234","email":"ahsandev.creative@gmail.com","phone_no":"+27 3215798470","card_type":3,"amount":96,"currency":"USD","card_no":"5123450000000008","ccExpiryMonth":"05","ccExpiryYear":"2021","cvvNumber":"100","sulte_apt_no":null,"response_url":"https:\/\/www.telason.com\/module\/ps_ipaytotalpayment\/payment?step=2&id_cart=52&id_module=110&id_order=&total=96&currency=2&key=e8a4221a0cab69b0ba60510097d0cb65&","ip_address":"45.115.84.0"} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:10: 9. Curl Response {"status":"fail","message":"You can not charge a single card more than your one month limit."} 
+*DEBUG* 	v1.7.4.4	2019/08/19 - 20:19:10: 11. after msg  0 , message  "You can not charge a single card more than your one month limit.<br>" 

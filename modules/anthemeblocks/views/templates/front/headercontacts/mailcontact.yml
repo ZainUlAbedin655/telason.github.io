@@ -1,0 +1,8 @@
+name: Mail Contact Item
+description: 
+enabled_text: false
+required_text: false
+enabled_link: false
+enabled_image: true
+css:
+  - views/templates/front/headercontacts/css/headercontacts.css 

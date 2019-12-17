@@ -1,0 +1,10 @@
+name: Product Blocks with banner
+description: 
+enabled_text: false
+required_text: false
+enabled_link: false
+enabled_image: false
+
+css:
+ path: views/templates/front/productblocks_and_banner/css/productblocks_and_banner.css
+

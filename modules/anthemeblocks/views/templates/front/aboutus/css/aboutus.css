@@ -1,0 +1,50 @@
+.about_us {
+    margin-bottom: 100px;
+}
+.about_us .about_us-content {
+    text-align: center;
+    padding-top: 30px;
+}
+.about_us .about_us-content h2 {
+    margin-bottom: 20px;
+    color: #101010;
+}
+.about_us .about_us-content p {
+    max-width: 435px;
+    margin-bottom: 42px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about_us-content {
+    margin-bottom: 69px;
+}
+.about_us img {
+    max-width: 100%;
+}
+.about_us .btn-primary {
+    background-color: #acdffc;
+    color: #000000;
+}
+.about_us .btn-primary:hover {
+    background-color: #070707;
+    color: #ffffff;
+}
+@media (max-width: 880px) {
+    .about_us .about_us-content {
+        text-align: center;
+    }
+    .about_us .about_us-content p {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .about_us_img {
+        text-align: center;
+    }
+    .about_us {
+        margin-top: 0;
+        margin-bottom: 35px;
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+}

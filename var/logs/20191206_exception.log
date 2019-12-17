@@ -1,0 +1,13 @@
+*ERROR* 	v1.7.4.4	2019/12/06 - 05:49:50: Can not retrieve the id_product_attribute  &=  &= 
+            SELECT 
+                pac.`id_product_attribute`
+            FROM 
+                `ps_product_attribute_combination` pac
+                INNER JOIN `ps_product_attribute` pa ON pa.id_product_attribute = pac.id_product_attribute
+            WHERE 
+                pa.id_product = 102
+                AND pac.id_attribute IN (29,60,63)
+            GROUP BY 
+                pac.`id_product_attribute`
+            HAVING 
+                COUNT(pa.id_product) = 3 at line 6147 in file classes/Product.php

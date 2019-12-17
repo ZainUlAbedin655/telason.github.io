@@ -1,0 +1,39 @@
+.header-contacts {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-around;
+}
+.header-contact-item {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	margin-right: 40px;
+}
+.header-contact-item:last-child {
+	margin-right: 0;
+}
+.header-contact-item.phone-contact a {
+
+}
+.header-contact-item.mail-contact a {
+	text-transform: none;
+}
+.header-contact-item.mail-contact span {
+	padding-left: 5px;
+}
+.contact-text a {
+	text-transform: uppercase;
+}
+.contact-text p {
+	margin-bottom: 0;
+	font-size: 13px;
+	color: #fff;
+}
+.contact-img {
+	margin-right: 7px;
+}

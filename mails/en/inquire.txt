@@ -1,0 +1,4 @@
+[{shop_url}] 
+CUSTOMER E-MAIL ADDRESS: email
+CUSTOMER: message
+{shop_name} [{shop_url}] 

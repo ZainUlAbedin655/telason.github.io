@@ -1,0 +1,31 @@
+/* Css for footer link start */
+
+#pst_footerlink{
+	text-align:center;
+	margin:0;
+}
+#pst_footerlink li a:hover{
+    color: #c1947c;
+    padding: 0 0 0 10px;
+}
+#pst_footerlink li a{
+    padding: 0 20px;
+    cursor: pointer;
+    color: #999999;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+#pst_footerlink li a:before{}
+#pst_footerlink li:last-child a:before{
+	background:none;
+}
+@media (max-width: 991px) {
+#pst_footerlink {
+    text-align: left; 
+}
+#pst_footerlink li a {
+padding: 0; 
+}
+}
+/* Css for footer link end */

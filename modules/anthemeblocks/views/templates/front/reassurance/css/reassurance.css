@@ -1,0 +1,94 @@
+.anthemeblocks-reassurance figure {
+  margin: 0;
+  display: inline-block;
+  width: 50px;
+  text-align: left;
+}
+.anthemeblocks-reassurance-item a {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -o-flex-wrap: wrap;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.anthemeblocks-reassurance-item span {
+  display: inline-block;
+  text-align: left;
+  font-size: 16px;
+  color: #000000;
+}
+#product .anthemeblocks-reassurance {
+  margin-left: 80px;
+}
+#product .anthemeblocks-reassurance ul li {
+  margin-bottom: 22px;
+}
+.anthemeblocks-reassurance ul {
+  text-align: center;
+  margin-bottom: 0;
+}
+.anthemeblocks-reassurance ul li {
+  margin-bottom: 10px;
+}
+#cart .anthemeblocks-reassurance ul li,
+#checkout .anthemeblocks-reassurance ul li {
+  width: 100%;
+  margin-bottom: 23px;
+}
+.anthemeblocks-reassurance ul li {
+  vertical-align: middle;
+}
+
+.anthemeblocks-reassurance ul li img {
+  max-width: 200px;
+}
+
+@media (max-width: 1199px){
+	.anthemeblocks-reassurance ul li {
+	  width: 100%;
+	}
+}
+@media (max-width: 991px) {
+  #cart .anthemeblocks-reassurance ul li, 
+  #checkout .anthemeblocks-reassurance ul li {
+    width: 32%;
+  }
+  #cart .anthemeblocks-reassurance ul, 
+  #checkout .anthemeblocks-reassurance ul {
+    display: flex;
+    justify-content: center;
+  }
+  #cart .anthemeblocks-reassurance .anthemeblocks-reassurance-item a, 
+  #checkout .anthemeblocks-reassurance .anthemeblocks-reassurance-item a {
+    justify-content: center;
+  }
+}
+@media (max-width: 840px) {
+  #product .anthemeblocks-reassurance {
+    margin-left: 30px;
+  }
+}
+@media (max-width: 767px) {
+  #cart .anthemeblocks-reassurance ul li, 
+  #checkout .anthemeblocks-reassurance ul li {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media (max-width: 480px) {
+  #product .anthemeblocks-reassurance {
+    margin-left: 0;
+    margin-top: 40px;
+  }
+  #cart .anthemeblocks-reassurance ul, #checkout .anthemeblocks-reassurance ul {
+    flex-direction: column;
+  }
+}

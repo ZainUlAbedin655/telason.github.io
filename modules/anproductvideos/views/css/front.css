@@ -1,0 +1,236 @@
+/**
+* 2007-2015 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    Apply Novation (Artem Zwinger)
+*  @copyright 2016-2017 Apply Novation
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*/
+
+.video-js {
+  width: auto !important;
+}
+.video_frame h3 {
+  margin: 0px 0px 15px 0px;
+}
+
+/* LIST */
+.anproductvideo-list .list_video_wr {
+ float: left;
+ width: 100%;
+ margin-bottom: 20px;
+}
+
+.anproductvideo-list .video_inner {
+ width: 33%;
+ float: left;
+}
+
+.anproductvideo-list .video_frame-descr {
+ width: 67%;	
+ float: right;
+ padding-left: 30px;
+}
+
+.anproductvideo-list .list_video_wr .video_inner {
+  position: relative;
+  width: 33%;
+  float: left;
+}
+
+@media (max-width: 768px) {
+	.anproductvideo-list .video_inner,
+	.anproductvideo-list .video_frame-descr,
+	.anproductvideo-list .list_video_wr .video_inner {
+	  width: 100%;
+	}
+
+	.anproductvideo-list .video_frame-descr {
+	  padding: 15px 0px 0px 0px;
+	}
+	
+	.anproductvideo-list .list_video_wr {
+	 margin-bottom: 30px;
+	}
+}
+
+
+/* LONG	*/
+.anproductvideo-long .list_video_wr {
+ float: left;
+ width: 100%;
+ margin-bottom: 30px;
+}
+
+.anproductvideo-long .video_inner {
+ width: 100%;
+ float: left;
+}
+
+.anproductvideo-long .video_frame-descr {
+ width: 100%;	
+ float: right;
+ padding: 15px 0px 10px 0px;
+}
+
+.anproductvideo-long .list_video_wr .video_inner {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+
+
+
+
+/* GRID	*/
+
+.anproductvideo-grid {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  -js-display: flex;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: start;
+  -moz-box-pack: start;
+  box-pack: start;
+  -webkit-justify-content: flex-start;
+  -moz-justify-content: flex-start;
+  -ms-justify-content: flex-start;
+  -o-justify-content: flex-start;
+  justify-content: flex-start;
+  -ms-flex-pack: start;
+}
+
+
+ .anproductvideo-grid .list_video_wr {
+ width: 50%;
+ height: 100%;
+ padding: 15px;
+}
+
+
+
+
+.anproductvideo-grid .video_inner {
+ width: 100%;
+ float: left;
+}
+
+.anproductvideo-grid .video_frame-descr {
+ width: 100%;	
+ float: right;
+ padding: 15px 0px 10px 0px;
+}
+
+
+.anproductvideo-grid .list_video_wr .video_inner {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+
+
+
+
+
+.anproductvideos .video-preview {
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.anproductvideos .list_video_wr .video_frame:before,
+.anproductvideos .list_video_wr .video_frame:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.anproductvideos .video-preview iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .list_video_wr {margin-bottom: 30px;}
+.long_video_wr,
+.video_grid {margin-bottom: 50px;}
+
+.video_grid .col-sm-6:nth-child(odd) {clear: left;}
+
+.video-preview,
+.video-preview {
+	position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video_inner {margin-bottom: 20px;}
+
+.list_video_wr .video_inner {
+	position: relative;
+	width: calc(33% - 30px);
+    float: left;
+    margin-right: 30px;
+}
+
+.list_video_wr .video_frame:before,
+.list_video_wr .video_frame:after {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.video-preview iframe {
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+} */

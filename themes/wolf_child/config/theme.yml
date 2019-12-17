@@ -1,0 +1,44 @@
+parent: wolf
+name: wolf_child
+display_name: wolf_child 
+version: 1.0.0
+assets:
+  use_parent_assets: true
+global_settings:  
+  image_types:
+    cart_default:
+      width: 80
+      height: 109
+      scope: [products]
+    small_default:
+      width: 80
+      height: 109
+      scope: [products, categories, manufacturers, suppliers]
+    medium_default:
+      width: 277
+      height: 377
+      scope: [products, manufacturers, suppliers]
+    home_default:
+      width: 277
+      height: 377
+      scope: [products]
+    large_default:
+      width: 585
+      height: 787
+      scope: [products, manufacturers, suppliers]
+    category_default:
+      width: 885
+      height: 250
+      scope: [categories]
+    stores_default:
+      width: 170
+      height: 115
+      scope: [stores]
+  hooks:
+   custom_hooks:
+    name: displayProductAdditionalInfo2
+    title: displayProductAdditionalInfo2
+    description: Add social block in the header
+   modules_to_hook:
+     displayProductAdditionalInfo2:
+       - pricerule

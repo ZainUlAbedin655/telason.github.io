@@ -1,0 +1,73 @@
+/**
+* 2007-2015 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    Apply Novation (Artem Zwinger)
+*  @copyright 2016-2017 Apply Novation
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*/
+ul.videos_list { list-style: none; float:left;}
+.video_item { border: 1px solid #d3d8db; margin: 5px 0; padding: 20px 0; float:left; }
+.video_item .row-fluid { width: 98%; }
+.video_item textarea.autoload_rte_anproductvideos.sort_started { height: 195px; }
+.video_btnsave { margin: 0 5px 0 0; }
+.alert.nodisplay { display: none; }
+.video_edit_form { float:left; }
+.video_frame { float:left; }
+.pull-left { float:left; }
+.pull-right { float:right; }
+.video-preview {padding:0 0 30px 0}
+.mce-textarea{ border: 1px solid #bbcdd2 !important; }
+.mce-toolbar-grp { overflow: hidden; }
+.label-fix { padding-left: 0px; }
+.video_edit_field {width:calc(100% - 45px); display:block; float:left; padding: 0 10px 0 5px;}
+.buttons_translate { width:40px; display:block; float:left; position:relative;}
+.video_container { padding:56.25% 0 0 0;position:relative;}
+.video_iframe {position:absolute;top:0;left:0;width:100%;height:100%;}
+.mce-tinymce,.mce-stack-layout, .mce-edit-area{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.mce-textarea, .mce-tinymce, .mce-container-body {
+    height:100%;
+}
+.mce-tinymce iframe{
+    flex: 1;
+    height:100% !important;
+}
+.width-100 {
+    width:100%;
+}
+.textarea_container {
+    padding:calc(57% - 23px) 0 0 0;position:relative;
+}
+.width-100 .textarea_container {
+    padding:calc(57% - 49px) 0 0 0;position:relative;
+}
+.label-tooltip {
+    text-decoration: none;
+    font-size: 13px;
+    color: #3586AE;
+    background-color: #edf7fb;
+    border: none;
+    border-bottom: solid 1px #D8EDF7;
+    padding: 0 5px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}

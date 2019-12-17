@@ -1,0 +1,1 @@
+<?php echo"<pre>";print_r($_POST['form']['id_product']);echo"</pre>"; ?>
